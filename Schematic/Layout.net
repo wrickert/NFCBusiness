@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/william/Documents/Projects/NFCBusiness/Schematic/Layout.sch)
-    (date "Tue 08 Jan 2019 12:08:31 PM CST")
+    (date "Thu 17 Jan 2019 03:42:28 PM CST")
     (tool "Eeschema 5.0.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value RF430FRL)
-      (footprint Housings_DFN_QFN:QFN-24_4x4mm_Pitch0.5mm_NoMask)
+      (footprint Housings_DFN_QFN:QFN-24-1EP_4x4mm_Pitch0.5mm)
       (libsource (lib Layout-rescue) (part RF430FRL-MCU_Texas_MSP430) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C18D6DB))
