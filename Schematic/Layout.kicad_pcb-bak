@@ -2760,7 +2760,7 @@
   (segment (start 131.324 115.824) (end 131.5 116) (width 0.25) (layer B.Cu) (net 31))
   (segment (start 129.032 115.824) (end 131.324 115.824) (width 0.25) (layer B.Cu) (net 31))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5C4298DD) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5C429903) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -2806,21 +2806,6 @@
       (pts
         (xy 130.865001 93.014801) (xy 130.865002 99.79501) (xy 130.695983 99.725) (xy 130.324017 99.725) (xy 130.127 99.806607)
         (xy 130.127 92.276799)
-      )
-    )
-  )
-  (zone (net 0) (net_name "") (layer F.SilkS) (tstamp 0) (hatch edge 0.508)
-    (connect_pads (clearance 0.508))
-    (min_thickness 0.254)
-    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy 118.37 100.65) (xy 118.96 100.79) (xy 118.74 102.36) (xy 118.03 102.26) (xy 118.36 100.67)
-      )
-    )
-    (filled_polygon
-      (pts
-        (xy 118.818184 100.886875) (xy 118.631865 102.216516) (xy 118.181885 102.153138) (xy 118.462225 100.80241)
       )
     )
   )
