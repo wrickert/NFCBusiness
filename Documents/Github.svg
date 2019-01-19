@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.0mm"
+   height="9.5mm"
+   viewBox="0 0 100.0 9.5"
+   version="1.1"
+   id="svg894"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="Github.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="112.22251"
+     inkscape:cy="90.430736"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1456"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       spacingx="2.54"
+       spacingy="2.54"
+       empspacing="1"
+       type="xygrid"
+       units="mm"
+       id="grid1440" />
+    <inkscape:grid
+       id="grid1483"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
+  </sodipodi:namedview>
+  <defs
+     id="defs888" />
+  <metadata
+     id="metadata891">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g1446">
+    <rect
+       x="0"
+       y="0"
+       width="70.0"
+       height="9.5"
+       style="stroke:none;fill-opacity:1;fill:#FFFFFF"
+       id="rect1444" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g1448" />
+  <g
+     inkscape:label="B.Cu-disabled"
+     inkscape:groupmode="layer"
+     id="g1450" />
+  <g
+     inkscape:label="B.Mask-disabled"
+     inkscape:groupmode="layer"
+     id="g1452" />
+  <g
+     inkscape:label="B.Silk-disabled"
+     inkscape:groupmode="layer"
+     id="g1454" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g1456">
+    <text
+       id="text1480"
+       y="5.8250437"
+       x="2.0045218"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'IBM 3270 Narrow';-inkscape-font-specification:'IBM 3270 Narrow, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'IBM 3270 Narrow, Medium';font-family:'IBM 3270 Narrow';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+         y="5.8250437"
+         x="2.0045218"
+         id="tspan1478"
+         sodipodi:role="line">https://github.com/wrickert/NFCBusiness</tspan></text>
+  </g>
+  <g
+     inkscape:label="F.Mask-disabled"
+     inkscape:groupmode="layer"
+     id="g1458" />
+  <g
+     inkscape:label="F.Silk-disabled"
+     inkscape:groupmode="layer"
+     id="g1460" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g1462" />
+</svg>
