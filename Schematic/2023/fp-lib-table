@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "NFCBuisnessV3")(type KiCad)(uri "$(KIPRJMOD)/NFCBuisnessV3.pretty")(options "")(descr ""))
+)
