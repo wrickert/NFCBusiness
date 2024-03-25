@@ -3430,7 +3430,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.33 270)
+			(at 0 -2.33 -90)
 			(layer "F.SilkS")
 			(uuid "bfae025e-5152-45fe-958e-7ce0699c534d")
 			(effects
@@ -3441,7 +3441,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 270)
+			(at 0 7.41 -90)
 			(layer "F.Fab")
 			(uuid "062ffbd0-0bcf-4e71-ac5e-9584b8fe62bf")
 			(effects
@@ -3643,7 +3643,7 @@
 			(uuid "32e48a34-9fea-4c36-8bef-fd628f03df27")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.Fab")
 			(uuid "6f6e4d2e-a307-4dd8-82ff-b292dd7f7b3a")
 			(effects
@@ -4667,7 +4667,7 @@
 		(descr "SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package")
 		(tags "SMD SMT crystal hand-soldering")
 		(property "Reference" "Y1"
-			(at 0 -1.8 270)
+			(at 0 -1.8 -90)
 			(layer "F.SilkS")
 			(uuid "a9ce15c8-097a-462c-99d0-60d18fff100e")
 			(effects
@@ -4678,7 +4678,7 @@
 			)
 		)
 		(property "Value" "Crystal"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "F.Fab")
 			(uuid "764cda63-d39d-4205-af69-60a9d027dd04")
 			(effects
@@ -4894,7 +4894,7 @@
 			(uuid "6565a6a2-970b-451f-b954-b3fbd2d27a2e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "d5629860-144f-4ada-8837-5c42b59330fa")
 			(effects
